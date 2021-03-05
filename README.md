@@ -1,3 +1,3 @@
-# edu_physA
+# edu_physAB
 
 物理学Aに関する練習問題をアップする予定です
