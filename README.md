@@ -4,6 +4,9 @@
 
 Sec 1:入門
 
+計算機イプシロンを求める
+(machine_epsilon.ipynb)
+
 Sec 2:微分
 
 Sec 3:積分
